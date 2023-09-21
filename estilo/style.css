@@ -4,15 +4,15 @@
 }
 
 body{
-    background-color: rgb(182, 118, 241);
+    background-color: rgb(12, 8, 8);
 
 
 }
 
 main{
-    background-color: aliceblue;
-    width: 500px;
+    background-color: rgba(167, 0, 31, 0.67);
+    width: 1080px;
     margin: auto;
     padding: 10px;
-    box-shadow: 3px 3px 5px black ;
+    box-shadow: 10px 3px 15px #3c1b1b;
 }
